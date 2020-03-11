@@ -2,6 +2,7 @@
 
 This is a sample project.
 
-# Authers
+# Contributors
 
 Amiraslan Bakhshili
+Gábor Kövesdán
