@@ -2,6 +2,6 @@
 
 This is a sample project.
 
-# Authers
+# Authors
 
 Amiraslan Bakhshili
